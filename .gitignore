@@ -140,3 +140,4 @@ cython_debug/
 data/
 .env
 .env.local
+Dockerfile
